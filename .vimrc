@@ -1,3 +1,6 @@
+" Enable mouse usage
+set mouse=a
+
 " Turn on line numbers
 set number
 
